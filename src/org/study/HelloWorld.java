@@ -7,7 +7,6 @@ public class HelloWorld {
         }
         System.out.println(new HelloWorld().sayHello("Bill"));
         System.out.println(new HelloWorld().sayHello("Eric"));
-
     }
 
     private String sayHello() {
